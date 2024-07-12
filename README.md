@@ -1,4 +1,4 @@
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 # 💫 About Me:
 1). Web Development: I love creating beautiful websites and applications.<br><br>2). Computer Engineering Student: Currently pursuing my degree at Information Technology University Lahore, focusing on algorithms and software engineering.<br><br>3). Contributor to Open Source Projects: Actively involved in collaborative coding projects.<br><br>4). Eager Learner: Always exploring new technologies and methods to improve my skills.<br><br>5). Committed to Advancing Web Development: Dedicated to pushing the boundaries of web development through innovation and creativity.
 
