@@ -52,7 +52,6 @@ A mix of tools and technologies I love working with:
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedKifayat1&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
