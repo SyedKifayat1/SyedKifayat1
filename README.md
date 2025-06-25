@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
 
 # 💫 About Me  
-Hey there! I'm **Kifayat**, a passionate web developer & tech enthusiast, always exploring, learning, and building cool things 🚀
+Hey there! I'm **Syed Kifayat**, a passionate web developer & tech enthusiast, always exploring, learning, and building cool things 🚀
 
 ### 👨‍💻 Here’s what I’m all about:
 - 🎨 **Web Development:** I love designing stunning and responsive web experiences with modern tools.  
