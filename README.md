@@ -4,11 +4,14 @@
 
 **Full Stack Web Developer | React.js | Node.js | Express.js**  
 
-📞 +92 311 8120088  
-✉️ [kifayatkhanofficial@gmail.com](mailto:kifayatkhanofficial@gmail.com)  
-🌐 [Portfolio](https://syedkifayatdev.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-kifayat)  
-💻 [GitHub](https://github.com/SyedKifayat1)  
+## 📬 Connect with Me
+
+[![Phone](https://img.shields.io/badge/Phone-%2B92%20311%208120088-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+923118120088)
+[![Email](https://img.shields.io/badge/Email-kifayatkhanofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedkifayatdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedKifayat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kifayat)
+[![GitHub](https://img.shields.io/badge/GitHub-SyedKifayat1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedKifayat1)
+
 
 ---
 
