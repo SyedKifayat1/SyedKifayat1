@@ -6,8 +6,8 @@
 
 📞 +92 311 8120088  
 ✉️ [kifayatkhanofficial@gmail.com](mailto:kifayatkhanofficial@gmail.com)  
-🌐 [Portfolio](https://kifayat-dev.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-kifayat-ur-rahman-a88b03265)  
+🌐 [Portfolio](https://syedkifayatdev.vercel.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-kifayat)  
 💻 [GitHub](https://github.com/SyedKifayat1)  
 
 ---
@@ -55,11 +55,35 @@ Information Technology University, Lahore | Aug 2022 - Present
 
 ## 🛠️ Skills
 
-**Languages:** JavaScript, C++, Python  
-**Frameworks & Libraries:** React.js, Next.js, MERN, ShadCN UI, Material UI, Tailwind CSS  
-**Databases & Tools:** MySQL, PostgreSQL, Git  
-**Project Management:** Jira, ClickUp  
-**Soft Skills:** Problem Solving, Critical Thinking, Teamwork, Effective Communication, Adaptability  
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-2C2C2C?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ShadCN UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### **Project Management**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+
+### **Soft Skills**
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFB800?style=for-the-badge&logo=appveyor&logoColor=white)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-00C8FF?style=for-the-badge&logo=appveyor&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white)
+![Effective Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-F0DB4F?style=for-the-badge&logo=appveyor&logoColor=white)
+
 
 ---
 
@@ -74,11 +98,6 @@ Information Technology University, Lahore | Aug 2022 - Present
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SyedKifayat1&theme=radical&no-frame=true&margin-w=5)
 
 ---
 
