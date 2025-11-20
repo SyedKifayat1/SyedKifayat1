@@ -90,13 +90,6 @@ Information Technology University, Lahore | Aug 2022 - Present
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kifayat_khan5426)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-kifayat-ur-rahman-a88b03265)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121013.svg?logo=github&logoColor=white)](https://github.com/SyedKifayat1)
-
----
-
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
