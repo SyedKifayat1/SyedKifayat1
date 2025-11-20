@@ -13,12 +13,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-SyedKifayat1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedKifayat1)
 
 
----
+
 
 ## 📝 Summary
 Results-oriented **Full Stack Web Developer** with expertise in React.js, Node.js, and Express.js. Skilled in creating responsive designs and dynamic web applications. Proven track record of delivering successful projects and enhancing functionality through innovative solutions. Adept at optimizing user experiences and streamlining server-side processes. Excels in front-end and back-end development with seamless integration.
 
----
+
 
 ## 💼 Projects
 
@@ -42,7 +42,7 @@ Results-oriented **Full Stack Web Developer** with expertise in React.js, Node.j
 - Seamless navigation using React Router and enhanced UI with Font Awesome icons.  
 - [View Project](https://chat-gpt-ten-omega-22.vercel.app)  
 
----
+
 
 ## 🎓 Education
 
@@ -54,7 +54,7 @@ Information Technology University, Lahore | Aug 2022 - Present
 **NexSkill Institute** | Aug 2023 - Feb 2024  
 - Relevant coursework: Full-Stack Web Development, Project Management  
 
----
+
 
 ## 🛠️ Skills
 
@@ -88,14 +88,14 @@ Information Technology University, Lahore | Aug 2022 - Present
 ![Adaptability](https://img.shields.io/badge/Adaptability-F0DB4F?style=for-the-badge&logo=appveyor&logoColor=white)
 
 
----
+
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
 
----
+
 
 ## ✒️ Developer Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
