@@ -19,7 +19,8 @@
 ## 📝 Summary
 Results-oriented **Full Stack Web Developer** with expertise in React.js, Node.js, and Express.js. Skilled in creating responsive designs and dynamic web applications. Proven track record of delivering successful projects and enhancing functionality through innovative solutions. Adept at optimizing user experiences and streamlining server-side processes. Excels in front-end and back-end development with seamless integration.
 
-
+<br>
+<br>
 
 ## 💼 Projects
 
@@ -43,7 +44,8 @@ Results-oriented **Full Stack Web Developer** with expertise in React.js, Node.j
 - Seamless navigation using React Router and enhanced UI with Font Awesome icons.  
 - [View Project](https://chat-gpt-ten-omega-22.vercel.app)  
 
-
+<br>
+<br>
 
 ## 🎓 Education
 
@@ -55,7 +57,8 @@ Information Technology University, Lahore | Aug 2022 - Present
 **NexSkill Institute** | Aug 2023 - Feb 2024  
 - Relevant coursework: Full-Stack Web Development, Project Management  
 
-
+<br>
+<br>
 
 ## 🛠️ Skills
 
@@ -88,7 +91,8 @@ Information Technology University, Lahore | Aug 2022 - Present
 ![Effective Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-F0DB4F?style=for-the-badge&logo=appveyor&logoColor=white)
 
-
+<br>
+<br>
 
 
 ## 📊 GitHub Stats
@@ -96,7 +100,8 @@ Information Technology University, Lahore | Aug 2022 - Present
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
 
-
+<br>
+<br>
 
 ## ✒️ Developer Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
