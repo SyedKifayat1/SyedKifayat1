@@ -1,74 +1,86 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
 
-# ⚡ **About Me**
-Hello! I'm **Syed Kifayat**, a dedicated Web Developer and tech enthusiast passionate about building modern, scalable, and visually refined digital experiences. I continuously explore new technologies, sharpen my skills, and work on real-world projects that challenge my creativity and problem-solving abilities.
+# ⚡ Syed Kifayat Ur Rahman
+
+**Full Stack Web Developer | React.js | Node.js | Express.js**  
+
+📞 +92 311 8120088  
+✉️ [kifayatkhanofficial@gmail.com](mailto:kifayatkhanofficial@gmail.com)  
+🌐 [Portfolio](https://kifayat-dev.vercel.app)  
+🔗 [LinkedIn](https://www.linkedin.com/in/syed-kifayat-ur-rahman-a88b03265)  
+💻 [GitHub](https://github.com/SyedKifayat1)  
 
 ---
 
-### 💼 **What I Do**
-- **Web Development:** Crafting responsive, high-performance user interfaces using modern frontend tools.  
-- **Computer Engineering Student:** Studying at *Information Technology University, Lahore*, specializing in software engineering and algorithmic thinking.  
-- **Open Source Contributor:** Collaborating on community projects and improving development workflows.  
-- **Continuous Learner:** Always exploring new stacks, frameworks, and advanced concepts.  
-- **Creative Problem Solver:** Focused on delivering clean, optimized, and scalable solutions.
+## 📝 Summary
+Results-oriented **Full Stack Web Developer** with expertise in React.js, Node.js, and Express.js. Skilled in creating responsive designs and dynamic web applications. Proven track record of delivering successful projects and enhancing functionality through innovative solutions. Adept at optimizing user experiences and streamlining server-side processes. Excels in front-end and back-end development with seamless integration.
 
 ---
 
-## 🌐 **Connect with Me**
+## 💼 Projects
+
+### **Agency Website for Evibes Development**  
+**Technologies:** Vite.js, CSS3, Framer Motion, Material UI  
+- Developed a fully responsive website for Evibes Development, showcasing services and projects.  
+- Built with React.js for a dynamic, component-based architecture.  
+- Emphasized clean layouts, mobile optimization, and scalable code structure.  
+- [View Project](https://evibesdevelopment.com)  
+
+### **Video Calling Web App**  
+**Technologies:** Next.js, Tailwind CSS, Radix UI, Clerk Authentication  
+- Implemented a real-time video calling app similar to Zoom using @stream-io/video-react-sdk.  
+- Integrated authentication via Clerk and interactive UI components using Radix UI.  
+- Responsive design achieved with Tailwind CSS.  
+- [View Project](https://video-calling-app-by-kifayat.vercel.app)  
+
+### **ChatGPT Clone**  
+**Technologies:** Vite.js, React.js, Highlight.js, Prism.js, Marked.js, Font Awesome  
+- Built a ChatGPT clone with Markdown rendering, syntax highlighting, and speech recognition.  
+- Seamless navigation using React Router and enhanced UI with Font Awesome icons.  
+- [View Project](https://chat-gpt-ten-omega-22.vercel.app)  
+
+---
+
+## 🎓 Education
+
+**Bachelor's in Computer Engineering**  
+Information Technology University, Lahore | Aug 2022 - Present  
+- Major: Web Development  
+- Learning: AI, Machine Learning, MERN Stack  
+
+**NexSkill Institute** | Aug 2023 - Feb 2024  
+- Relevant coursework: Full-Stack Web Development, Project Management  
+
+---
+
+## 🛠️ Skills
+
+**Languages:** JavaScript, C++, Python  
+**Frameworks & Libraries:** React.js, Next.js, MERN, ShadCN UI, Material UI, Tailwind CSS  
+**Databases & Tools:** MySQL, PostgreSQL, Git  
+**Project Management:** Jira, ClickUp  
+**Soft Skills:** Problem Solving, Critical Thinking, Teamwork, Effective Communication, Adaptability  
+
+---
+
+## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kifayat_khan5426)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-kifayat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-kifayat-ur-rahman-a88b03265)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121013.svg?logo=github&logoColor=white)](https://github.com/SyedKifayat1)
 
 ---
 
-# 🖥️ **Tech Stack**
-
-### **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Deployment & Tools**
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
----
-
-# 📊 **GitHub Stats**
+## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-# 🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SyedKifayat1&theme=radical&no-frame=true&margin-w=5)
 
 ---
 
-
-# 📌 **Top Contributed Repositories**
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=SyedKifayat1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-# ✒️ **Developer Quote**
+## ✒️ Developer Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
