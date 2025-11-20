@@ -12,7 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedKifayat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kifayat)
 [![GitHub](https://img.shields.io/badge/GitHub-SyedKifayat1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedKifayat1)
 
-
+<br>
+<br>
 
 
 ## 📝 Summary
