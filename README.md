@@ -99,9 +99,7 @@ A perfect 100 SEO and Best Practices score on both mobile and desktop — someth
 
 ## 🎓 Background
 **BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
-<br>
 **Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
-<br>
 **Certified Ethical Hacker (CEH)**
 
 Based in Lahore, Pakistan, working remotely with clients worldwide.
@@ -112,6 +110,8 @@ Based in Lahore, Pakistan, working remotely with clients worldwide.
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SyedKifayat1&theme=tokyonight&no-frame=true&row=1&column=7)
 
 <br>
 
