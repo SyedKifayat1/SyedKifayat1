@@ -19,6 +19,19 @@ Building fast, mobile-optimized online stores that convert visitors into custome
 
 I design and build full e-commerce websites — product catalogs, cart & checkout, order tracking, admin dashboards, and payments — using the MERN stack. I work with brands anywhere in the world, remotely, and I care about two things above all: **site speed** and **search visibility**, because a beautiful store that loads slow or doesn't rank doesn't sell.
 
+**BS Computer Engineering graduate** from Information Technology University, Lahore, with hands-on training in full-stack development, AI/ML fundamentals, and project management — backing practical client work with solid CS fundamentals.
+
+<br>
+
+## 🧰 Services I Offer
+
+- **Custom E-commerce Websites** — product catalog, cart, checkout, payments (Stripe/PayPal), order tracking
+- **Admin Dashboards** — inventory, order, and customer management panels
+- **Site Speed & SEO Optimization** — fixing slow-loading stores, improving Core Web Vitals and search ranking
+- **API Development & Integration** — REST APIs, third-party integrations (payments, shipping, email, CRM)
+- **Website Revamps** — modernizing outdated sites into fast, mobile-first experiences
+- **Ongoing Maintenance & Support** — bug fixes, feature additions, performance monitoring
+
 <br>
 
 ## 🏆 Featured Work
@@ -47,19 +60,47 @@ A perfect 100 SEO and Best Practices score on both mobile and desktop — someth
 
 ## ⚙️ Tech Stack
 
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Payments, Auth & Media**
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+**Tools & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
 ## 🎓 Background
-Computer Engineering student, Information Technology University, Lahore (Web Development major) — plus full-stack training via NexSkill Institute. Based in Lahore, Pakistan, working remotely with clients worldwide.
+**BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
+**Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
+
+Based in Lahore, Pakistan, working remotely with clients worldwide.
 
 <br>
 
