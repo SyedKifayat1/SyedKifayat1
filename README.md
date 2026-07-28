@@ -106,11 +106,6 @@ Based in Lahore, Pakistan, working remotely with clients worldwide.
 
 <br>
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
 
-<br>
-
-**Have an e-commerce idea or a slow store that needs fixing? [Email me](mailto:kifayatkhanofficial@gmail.com) — let's talk.**
+**Have an e-commerce idea or a slow store that needs fixing? [Email Me](mailto:kifayatkhanofficial@gmail.com) — let's talk.**
