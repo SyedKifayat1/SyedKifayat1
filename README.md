@@ -99,7 +99,9 @@ A perfect 100 SEO and Best Practices score on both mobile and desktop — someth
 
 ## 🎓 Background
 **BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
+<br>
 **Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
+<br>
 **Certified Ethical Hacker (CEH)**
 
 Based in Lahore, Pakistan, working remotely with clients worldwide.
