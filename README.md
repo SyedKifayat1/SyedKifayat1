@@ -26,9 +26,6 @@ I build online stores that load fast, rank well, and turn visitors into paying c
 
 <br>
 
-## 📑 Contents
-[What I Do](#-what-i-do) · [Why Work With Me](#-why-work-with-me) · [Services](#-services-i-offer) · [How I Work](#-how-i-work) · [Experience](#-work-experience) · [Featured Work](#-featured-work) · [Tech Stack](#️-tech-stack) · [Credentials](#-background--credentials) · [FAQ](#-common-questions)
-
 <br>
 
 ## 🛍️ What I Do
