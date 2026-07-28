@@ -57,12 +57,28 @@ Two things I obsess over on every build: **site speed** and **search visibility*
 
 <br>
 
+## 💼 Work Experience
+
+**MERN Developer — Sky Cashmere** &nbsp;|&nbsp; Feb 2026 – Present
+
+Built [skycashmere.us](https://skycashmere.us), a full production e-commerce platform for a premium cashmere brand, from scratch — no page-builder templates.
+
+- Built a complete **admin dashboard**: operations (orders, support chat, notifications, visitor analytics), catalog (products, media library, inventory), commerce (customers, coupons, tax, reviews), and content management (blog, homepage, FAQ, store locations)
+- Implemented **real-time sales analytics**, order status tracking, and low-stock alerts
+- Reduced database latency by **30%** through MongoDB query optimization and indexing
+- Added **Redis caching** to cut API response times and server load
+- Built **RBAC** (role-based access control) and geo-access controls for admin security
+- Integrated **OAuth** authentication and a secure payment gateway
+- Used **WebSocket** for real-time data sync across the storefront and admin panel
+
+<br>
+
 ## 🏆 Featured Work
 
 ### **Sky Cashmere** — Premium Fashion E-commerce
-**Live site:** [skycashmere.us](https://skycashmere.us) &nbsp;|&nbsp; **Stack:** MERN, Stripe, Cloudinary/CDN
+**Live site:** [skycashmere.us](https://skycashmere.us) &nbsp;|&nbsp; **Stack:** MERN, Next.js, Redis, Stripe, Cloudinary/CDN
 
-A full production storefront — product catalog with variants, cart, wishlist, user accounts, order tracking, CMS-driven blog, and policy pages — built and optimized for real customer traffic.
+Full production storefront + admin platform (see Work Experience above for the technical breakdown) — built and optimized for real customer traffic.
 
 **Verified Google PageSpeed scores:**
 
@@ -100,6 +116,8 @@ A full production storefront — product catalog with variants, cart, wishlist, 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -108,6 +126,7 @@ A full production storefront — product catalog with variants, cart, wishlist, 
 
 **Payments, Auth & Media**
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
@@ -120,9 +139,9 @@ A full production storefront — product catalog with variants, cart, wishlist, 
 <br>
 
 ## 🎓 Background & Credentials
-- **BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
-- **Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
-- **Certified Ethical Hacker (CEH)**
+- **BS Computer Engineering** — Information Technology University, Lahore (Graduated Jun 2026)
+- **Certified Ethical Hacker (CEH), EC-Council** — Jun 2026
+- **MERN Stack Development** — NexSkill Institute, Feb 2024
 
 <br>
 
@@ -141,8 +160,6 @@ A standard store (catalog, cart, checkout, admin panel) typically takes 3–5 we
 Yes — revamps, speed optimization, and security audits on existing sites are common requests and don't require a full rebuild.
 
 <br>
-
-
 
 ---
 
