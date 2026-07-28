@@ -3,7 +3,7 @@
 # Syed Kifayat Ur Rahman
 
 ### MERN Stack Developer for E-commerce & Fashion Brands
-Building fast, secure, mobile-optimized online stores that convert visitors into customers.
+I build online stores that load fast, rank well, and turn visitors into paying customers — not just websites that look good in a demo.
 
 ![Available](https://img.shields.io/badge/Available_for_Freelance_Work-1A1A2E?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Lahore,_Pakistan-1A1A2E?style=for-the-badge)
@@ -18,11 +18,24 @@ Building fast, secure, mobile-optimized online stores that convert visitors into
 
 ---
 
+### Quick Facts
+
+| 🚀 100 / 100 | ⚡ 30% Faster | 🔒 CEH-Certified | 🌍 Remote-First |
+|:---:|:---:|:---:|:---:|
+| SEO score, mobile & desktop, on a live production store | Database latency reduced through query & index optimization | Security-conscious builds, backed by a real certification | Working with clients across time zones since day one |
+
+<br>
+
+## 📑 Contents
+[What I Do](#-what-i-do) · [Why Work With Me](#-why-work-with-me) · [Services](#-services-i-offer) · [How I Work](#-how-i-work) · [Experience](#-work-experience) · [Featured Work](#-featured-work) · [Tech Stack](#️-tech-stack) · [Credentials](#-background--credentials) · [FAQ](#-common-questions)
+
+<br>
+
 ## 🛍️ What I Do
 
 I design and build full e-commerce websites — product catalogs, cart & checkout, payments, order tracking, and admin dashboards — using the MERN stack. I work with fashion, retail, and small-to-mid brands remotely, anywhere in the world.
 
-Two things I obsess over on every build: **site speed** and **search visibility** — because a beautiful store that loads slow or doesn't rank doesn't sell.
+Two things I obsess over on every build: **site speed** and **search visibility** — because a beautiful store that loads slow or doesn't rank doesn't sell. The Quick Facts above aren't marketing copy — they're measured results from a live store I built and maintain.
 
 <br>
 
@@ -30,11 +43,11 @@ Two things I obsess over on every build: **site speed** and **search visibility*
 
 | | |
 |---|---|
-| 🌍 **Global-ready, no friction** | Payments via Wise/Payoneer/Stripe, flexible hours to overlap with US/UK/EU time zones |
-| ⚡ **Performance-first builds** | Verified 90+ PageSpeed scores on delivered projects — not just claims, see below |
-| 🔒 **Security-conscious** | CEH-certified — I build with common vulnerabilities in mind from day one |
-| 🎓 **Strong fundamentals** | BS Computer Engineering — solid CS foundation behind every practical decision |
-| 💬 **Clear communication** | Regular progress updates, no disappearing for weeks mid-project |
+| 🌍 **Global-ready, no friction** | Payments via Wise, Payoneer, or Stripe — whichever is easiest on your end. Flexible hours to overlap with US/UK/EU time zones |
+| ⚡ **Performance-first builds** | Every project is benchmarked against Core Web Vitals before I call it done, not after a client complains |
+| 🔒 **Security-conscious by training** | CEH-certified — authentication, RBAC, and data handling are built right the first time |
+| 🎓 **Real engineering fundamentals** | BS Computer Engineering — the "why" behind every technical decision, not just copy-pasted patterns |
+| 💬 **You'll always know where things stand** | Scheduled progress updates and a staged preview link — no radio silence mid-project |
 
 <br>
 
@@ -52,11 +65,11 @@ Two things I obsess over on every build: **site speed** and **search visibility*
 
 ## 🔄 How I Work
 
-1. **Discovery** — understand your brand, goals, and what "done" looks like
-2. **Plan** — scope, timeline, and a clear quote before any code is written
-3. **Build** — regular check-ins, staged previews so you see progress, not just a final reveal
-4. **Test** — performance, mobile responsiveness, and security checks before launch
-5. **Launch & Support** — deployed, monitored, and I stay reachable after handoff
+1. **Discovery** — a short call to understand your brand, goals, and what "done" looks like for you
+2. **Plan** — you get a clear scope, timeline, and quote in writing before any code is written
+3. **Build** — staged preview links so you see real progress, not a single reveal at the end
+4. **Test** — performance, mobile responsiveness, and a security pass before anything goes live
+5. **Launch & Support** — deployed, monitored, and I stay reachable after handoff — not gone the day you pay
 
 <br>
 
@@ -133,6 +146,9 @@ A standard store (catalog, cart, checkout, admin panel) typically takes 3–5 we
 
 **Can you fix/improve my existing site instead of building new?** <br>
 Yes — revamps, speed optimization, and security audits on existing sites are common requests and don't require a full rebuild.
+
+**What information do you need to give me a quote?** <br>
+A rough idea of your product catalog size, must-have features (e.g. reviews, subscriptions, multi-currency), and any existing branding — a 15-minute call is usually enough to scope it.
 
 <br>
 
