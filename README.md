@@ -142,14 +142,7 @@ Yes — revamps, speed optimization, and security audits on existing sites are c
 
 <br>
 
-## 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=SyedKifayat1&theme=tokyonight&no-frame=true&row=1&column=7)
-
-<br>
 
 ---
 
