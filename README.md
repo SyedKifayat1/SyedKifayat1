@@ -31,6 +31,7 @@ I design and build full e-commerce websites — product catalogs, cart & checkou
 - **API Development & Integration** — REST APIs, third-party integrations (payments, shipping, email, CRM)
 - **Website Revamps** — modernizing outdated sites into fast, mobile-first experiences
 - **Ongoing Maintenance & Support** — bug fixes, feature additions, performance monitoring
+- **Security Hardening** — CEH-certified review of your store for common vulnerabilities (important for anywhere handling customer data or payments)
 
 <br>
 
@@ -99,6 +100,7 @@ A perfect 100 SEO and Best Practices score on both mobile and desktop — someth
 ## 🎓 Background
 **BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
 **Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
+**Certified Ethical Hacker (CEH)**
 
 Based in Lahore, Pakistan, working remotely with clients worldwide.
 
