@@ -136,4 +136,7 @@ Yes — revamps, speed optimization, and security audits on existing sites are c
 ---
 
 ### 📬 Have an e-commerce idea or a slow store that needs fixing?
-**[Email me](mailto:kifayatkhanofficial@gmail.com)** &nbsp;·&nbsp; **[Message on WhatsApp](https://wa.me/923118120088)** &nbsp;·&nbsp; **[See my work](https://syedkifayatdev.vercel.app)**
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923118120088)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
