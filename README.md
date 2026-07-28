@@ -148,15 +148,19 @@ Full production storefront + admin platform (see Work Experience above for the t
 ## ❓ Common Questions
 
 **Do you work with clients outside Pakistan?**
+<br>
 Yes — all of my recent work has been remote, for clients across different time zones. I'm flexible on scheduling calls to overlap with US/UK/EU hours.
 
 **How do payments work?**
+<br>
 I accept payments via Wise, Payoneer, or Stripe — whichever is easiest on your end. Milestone-based payment plans available for larger projects.
 
 **How long does a typical e-commerce build take?**
+<br>
 A standard store (catalog, cart, checkout, admin panel) typically takes 3–5 weeks depending on scope. I'll give you a specific timeline after our discovery call.
 
 **Can you fix/improve my existing site instead of building new?**
+<br>
 Yes — revamps, speed optimization, and security audits on existing sites are common requests and don't require a full rebuild.
 
 <br>
