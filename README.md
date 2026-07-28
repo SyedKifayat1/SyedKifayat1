@@ -1,25 +1,37 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
 
 # Syed Kifayat Ur Rahman
 
-**MERN Stack Developer for E-commerce & Fashion Brands**
-Building fast, mobile-optimized online stores that convert visitors into customers.
+### MERN Stack Developer for E-commerce & Fashion Brands
+Building fast, secure, mobile-optimized online stores that convert visitors into customers.
 
-## 📬 Let's Build Your Store
+![Available](https://img.shields.io/badge/Status-Available_for_Freelance_Work-brightgreen?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based_in-Lahore,_Pakistan-blue?style=for-the-badge)
+![Clients](https://img.shields.io/badge/Serving-Clients_Worldwide-orange?style=for-the-badge)
 
-[![Phone](https://img.shields.io/badge/Phone-%2B92%20311%208120088-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+923118120088)
-[![Email](https://img.shields.io/badge/Email-kifayatkhanofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-syedkifayatdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedKifayat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kifayat)
-[![GitHub](https://img.shields.io/badge/GitHub-SyedKifayat1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedKifayat1)
+**[💼 Portfolio](https://syedkifayatdev.vercel.app) · [📧 Email](mailto:kifayatkhanofficial@gmail.com) · [💬 WhatsApp](https://wa.me/923118120088) · [🔗 LinkedIn](https://www.linkedin.com/in/syed-kifayat)**
 
-<br>
+<br clear="right">
+
+---
 
 ## 🛍️ What I Do
 
-I design and build full e-commerce websites — product catalogs, cart & checkout, order tracking, admin dashboards, and payments — using the MERN stack. I work with brands anywhere in the world, remotely, and I care about two things above all: **site speed** and **search visibility**, because a beautiful store that loads slow or doesn't rank doesn't sell.
+I design and build full e-commerce websites — product catalogs, cart & checkout, payments, order tracking, and admin dashboards — using the MERN stack. I work with fashion, retail, and small-to-mid brands remotely, anywhere in the world.
 
-**BS Computer Engineering graduate** from Information Technology University, Lahore, with hands-on training in full-stack development, AI/ML fundamentals, and project management — backing practical client work with solid CS fundamentals.
+Two things I obsess over on every build: **site speed** and **search visibility** — because a beautiful store that loads slow or doesn't rank doesn't sell.
+
+<br>
+
+## 🤝 Why Work With Me
+
+| | |
+|---|---|
+| 🌍 **Global-ready, no friction** | Payments via Wise/Payoneer/Stripe, flexible hours to overlap with US/UK/EU time zones |
+| ⚡ **Performance-first builds** | Verified 90+ PageSpeed scores on delivered projects — not just claims, see below |
+| 🔒 **Security-conscious** | CEH-certified — I build with common vulnerabilities in mind from day one |
+| 🎓 **Strong fundamentals** | BS Computer Engineering — solid CS foundation behind every practical decision |
+| 💬 **Clear communication** | Regular progress updates, no disappearing for weeks mid-project |
 
 <br>
 
@@ -30,26 +42,36 @@ I design and build full e-commerce websites — product catalogs, cart & checkou
 - **Site Speed & SEO Optimization** — fixing slow-loading stores, improving Core Web Vitals and search ranking
 - **API Development & Integration** — REST APIs, third-party integrations (payments, shipping, email, CRM)
 - **Website Revamps** — modernizing outdated sites into fast, mobile-first experiences
+- **Security Hardening** — CEH-certified review of your store for common vulnerabilities
 - **Ongoing Maintenance & Support** — bug fixes, feature additions, performance monitoring
-- **Security Hardening** — CEH-certified review of your store for common vulnerabilities (important for anywhere handling customer data or payments)
+
+<br>
+
+## 🔄 How I Work
+
+1. **Discovery** — understand your brand, goals, and what "done" looks like
+2. **Plan** — scope, timeline, and a clear quote before any code is written
+3. **Build** — regular check-ins, staged previews so you see progress, not just a final reveal
+4. **Test** — performance, mobile responsiveness, and security checks before launch
+5. **Launch & Support** — deployed, monitored, and I stay reachable after handoff
 
 <br>
 
 ## 🏆 Featured Work
 
 ### **Sky Cashmere** — Premium Fashion E-commerce
-**Live site:** [skycashmere.us](https://skycashmere.us)
-**Stack:** MERN, Stripe, Cloudinary/CDN image delivery
+**Live site:** [skycashmere.us](https://skycashmere.us) &nbsp;|&nbsp; **Stack:** MERN, Stripe, Cloudinary/CDN
 
 A full production storefront — product catalog with variants, cart, wishlist, user accounts, order tracking, CMS-driven blog, and policy pages — built and optimized for real customer traffic.
 
-**Verified PageSpeed scores:**
+**Verified Google PageSpeed scores:**
+
 | | Performance | Accessibility | Best Practices | SEO |
-|---|---|---|---|---|
+|---|:---:|:---:|:---:|:---:|
 | 🖥️ Desktop | 98 | 96 | 100 | **100** |
 | 📱 Mobile | 77 | 92 | 100 | **100** |
 
-A perfect 100 SEO and Best Practices score on both mobile and desktop — something most agency-built stores don't hit.
+> A perfect 100 SEO and Best Practices score on both mobile and desktop — a bar most agency-built stores don't clear.
 
 <br>
 
@@ -97,15 +119,39 @@ A perfect 100 SEO and Best Practices score on both mobile and desktop — someth
 
 <br>
 
-## 🎓 Background
-**BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
-**Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
-**Certified Ethical Hacker (CEH)**
-
-Based in Lahore, Pakistan, working remotely with clients worldwide.
+## 🎓 Background & Credentials
+- **BS Computer Engineering** — Information Technology University, Lahore (Web Development focus, graduated)
+- **Full-Stack Web Development & Project Management** — NexSkill Institute, Aug 2023 – Feb 2024
+- **Certified Ethical Hacker (CEH)**
 
 <br>
 
+## ❓ Common Questions
 
+**Do you work with clients outside Pakistan?**
+Yes — all of my recent work has been remote, for clients across different time zones. I'm flexible on scheduling calls to overlap with US/UK/EU hours.
 
-**Have an e-commerce idea or a slow store that needs fixing? [Email Me](mailto:kifayatkhanofficial@gmail.com) — let's talk.**
+**How do payments work?**
+I accept payments via Wise, Payoneer, or Stripe — whichever is easiest on your end. Milestone-based payment plans available for larger projects.
+
+**How long does a typical e-commerce build take?**
+A standard store (catalog, cart, checkout, admin panel) typically takes 3–5 weeks depending on scope. I'll give you a specific timeline after our discovery call.
+
+**Can you fix/improve my existing site instead of building new?**
+Yes — revamps, speed optimization, and security audits on existing sites are common requests and don't require a full rebuild.
+
+<br>
+
+## 📊 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SyedKifayat1&theme=tokyonight&no-frame=true&row=1&column=7)
+
+<br>
+
+---
+
+### 📬 Have an e-commerce idea or a slow store that needs fixing?
+**[Email me](mailto:kifayatkhanofficial@gmail.com)** &nbsp;·&nbsp; **[Message on WhatsApp](https://wa.me/923118120088)** &nbsp;·&nbsp; **[See my work](https://syedkifayatdev.vercel.app)**
