@@ -9,7 +9,10 @@ Building fast, secure, mobile-optimized online stores that convert visitors into
 ![Location](https://img.shields.io/badge/Based_in-Lahore,_Pakistan-blue?style=for-the-badge)
 ![Clients](https://img.shields.io/badge/Serving-Clients_Worldwide-orange?style=for-the-badge)
 
-**[💼 Portfolio](https://syedkifayatdev.vercel.app) · [📧 Email](mailto:kifayatkhanofficial@gmail.com) · [💬 WhatsApp](https://wa.me/923118120088) · [🔗 LinkedIn](https://www.linkedin.com/in/syed-kifayat)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923118120088)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kifayat)
 
 <br clear="right">
 
@@ -119,16 +122,16 @@ Full production storefront + admin platform (see Work Experience above for the t
 
 ## ❓ Common Questions
 
-**Do you work with clients outside Pakistan?** <br>
+**Do you work with clients outside Pakistan?**
 Yes — all of my recent work has been remote, for clients across different time zones. I'm flexible on scheduling calls to overlap with US/UK/EU hours.
 
-**How do payments work?** <br>
+**How do payments work?**
 I accept payments via Wise, Payoneer, or Stripe — whichever is easiest on your end. Milestone-based payment plans available for larger projects.
 
-**How long does a typical e-commerce build take?** <br>
+**How long does a typical e-commerce build take?**
 A standard store (catalog, cart, checkout, admin panel) typically takes 3–5 weeks depending on scope. I'll give you a specific timeline after our discovery call.
 
-**Can you fix/improve my existing site instead of building new?** <br>
+**Can you fix/improve my existing site instead of building new?**
 Yes — revamps, speed optimization, and security audits on existing sites are common requests and don't require a full rebuild.
 
 <br>
