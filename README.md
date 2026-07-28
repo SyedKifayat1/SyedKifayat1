@@ -5,14 +5,14 @@
 ### MERN Stack Developer for E-commerce & Fashion Brands
 Building fast, secure, mobile-optimized online stores that convert visitors into customers.
 
-![Available](https://img.shields.io/badge/Status-Available_for_Freelance_Work-brightgreen?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based_in-Lahore,_Pakistan-blue?style=for-the-badge)
-![Clients](https://img.shields.io/badge/Serving-Clients_Worldwide-orange?style=for-the-badge)
+![Available](https://img.shields.io/badge/Available_for_Freelance_Work-1A1A2E?style=for-the-badge)
+![Location](https://img.shields.io/badge/Lahore,_Pakistan-1A1A2E?style=for-the-badge)
+![Clients](https://img.shields.io/badge/Serving_Clients_Worldwide-1A1A2E?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923118120088)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-kifayat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
+[![Email](https://img.shields.io/badge/Email-1A1A2E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kifayatkhanofficial@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1A1A2E?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923118120088)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/syed-kifayat)
 
 <br clear="right">
 
@@ -122,16 +122,16 @@ Full production storefront + admin platform (see Work Experience above for the t
 
 ## ❓ Common Questions
 
-**Do you work with clients outside Pakistan?**
+**Do you work with clients outside Pakistan?** <br>
 Yes — all of my recent work has been remote, for clients across different time zones. I'm flexible on scheduling calls to overlap with US/UK/EU hours.
 
-**How do payments work?**
+**How do payments work?** <br>
 I accept payments via Wise, Payoneer, or Stripe — whichever is easiest on your end. Milestone-based payment plans available for larger projects.
 
-**How long does a typical e-commerce build take?**
+**How long does a typical e-commerce build take?** <br>
 A standard store (catalog, cart, checkout, admin panel) typically takes 3–5 weeks depending on scope. I'll give you a specific timeline after our discovery call.
 
-**Can you fix/improve my existing site instead of building new?**
+**Can you fix/improve my existing site instead of building new?** <br>
 Yes — revamps, speed optimization, and security audits on existing sites are common requests and don't require a full rebuild.
 
 <br>
@@ -140,6 +140,6 @@ Yes — revamps, speed optimization, and security audits on existing sites are c
 
 ### 📬 Have an e-commerce idea or a slow store that needs fixing?
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923118120088)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
+[![Email](https://img.shields.io/badge/Email_Me-1A1A2E?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kifayatkhanofficial@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1A1A2E?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923118120088)
+[![Portfolio](https://img.shields.io/badge/See_My_Work-1A1A2E?style=for-the-badge&logo=vercel&logoColor=white)](https://syedkifayatdev.vercel.app)
