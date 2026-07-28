@@ -2,9 +2,10 @@
 
 # Syed Kifayat Ur Rahman
 
-**Full Stack Web Developer | React.js | Node.js | Express.js**  
+**MERN Stack Developer for E-commerce & Fashion Brands**
+Building fast, mobile-optimized online stores that convert visitors into customers.
 
-## 📬 Connect with Me
+## 📬 Let's Build Your Store
 
 [![Phone](https://img.shields.io/badge/Phone-%2B92%20311%208120088-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+923118120088)
 [![Email](https://img.shields.io/badge/Email-kifayatkhanofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kifayatkhanofficial@gmail.com)
@@ -14,94 +15,59 @@
 
 <br>
 
+## 🛍️ What I Do
 
-
-## 📝 Summary
-Results-oriented **Full Stack Web Developer** with expertise in React.js, Node.js, and Express.js. Skilled in creating responsive designs and dynamic web applications. Proven track record of delivering successful projects and enhancing functionality through innovative solutions. Adept at optimizing user experiences and streamlining server-side processes. Excels in front-end and back-end development with seamless integration.
-
-<br>
-
-
-## 💼 Projects
-
-### **Agency Website for Evibes Development**  
-**Technologies:** Vite.js, CSS3, Framer Motion, Material UI  
-- Developed a fully responsive website for Evibes Development, showcasing services and projects.  
-- Built with React.js for a dynamic, component-based architecture.  
-- Emphasized clean layouts, mobile optimization, and scalable code structure.  
-- [View Project](https://evibesdevelopment.com)  
-
-### **Video Calling Web App**  
-**Technologies:** Next.js, Tailwind CSS, Radix UI, Clerk Authentication  
-- Implemented a real-time video calling app similar to Zoom using @stream-io/video-react-sdk.  
-- Integrated authentication via Clerk and interactive UI components using Radix UI.  
-- Responsive design achieved with Tailwind CSS.  
-- [View Project](https://video-calling-app-by-kifayat.vercel.app)  
-
-### **ChatGPT Clone**  
-**Technologies:** Vite.js, React.js, Highlight.js, Prism.js, Marked.js, Font Awesome  
-- Built a ChatGPT clone with Markdown rendering, syntax highlighting, and speech recognition.  
-- Seamless navigation using React Router and enhanced UI with Font Awesome icons.  
-- [View Project](https://chat-gpt-ten-omega-22.vercel.app)  
+I design and build full e-commerce websites — product catalogs, cart & checkout, order tracking, admin dashboards, and payments — using the MERN stack. I work with brands anywhere in the world, remotely, and I care about two things above all: **site speed** and **search visibility**, because a beautiful store that loads slow or doesn't rank doesn't sell.
 
 <br>
 
+## 🏆 Featured Work
 
-## 🎓 Education
+### **Sky Cashmere** — Premium Fashion E-commerce
+**Live site:** [skycashmere.us](https://skycashmere.us)
+**Stack:** MERN, Stripe, Cloudinary/CDN image delivery
 
-**Bachelor's in Computer Engineering**  
-Information Technology University, Lahore | Aug 2022 - Present  
-- Major: Web Development  
-- Learning: AI, Machine Learning, MERN Stack  
+A full production storefront — product catalog with variants, cart, wishlist, user accounts, order tracking, CMS-driven blog, and policy pages — built and optimized for real customer traffic.
 
-**NexSkill Institute** | Aug 2023 - Feb 2024  
-- Relevant coursework: Full-Stack Web Development, Project Management  
+**Verified PageSpeed scores:**
+| | Performance | Accessibility | Best Practices | SEO |
+|---|---|---|---|---|
+| 🖥️ Desktop | 98 | 96 | 100 | **100** |
+| 📱 Mobile | 77 | 92 | 100 | **100** |
+
+A perfect 100 SEO and Best Practices score on both mobile and desktop — something most agency-built stores don't hit.
 
 <br>
 
+### Other Projects
+- **[Evibes Development](https://evibesdevelopment.com)** — Responsive agency website (React, Framer Motion)
+- **[Video Calling App](https://video-calling-app-by-kifayat.vercel.app)** — Real-time video app with Clerk auth (Next.js, Tailwind)
 
-## 🛠️ Skills
+<br>
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## ⚙️ Tech Stack
 
-### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-2C2C2C?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ShadCN UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **Project Management**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+<br>
 
-### **Soft Skills**
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFB800?style=for-the-badge&logo=appveyor&logoColor=white)
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-00C8FF?style=for-the-badge&logo=appveyor&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-FF6B6B?style=for-the-badge&logo=appveyor&logoColor=white)
-![Effective Communication](https://img.shields.io/badge/Communication-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-F0DB4F?style=for-the-badge&logo=appveyor&logoColor=white)
+## 🎓 Background
+Computer Engineering student, Information Technology University, Lahore (Web Development major) — plus full-stack training via NexSkill Institute. Based in Lahore, Pakistan, working remotely with clients worldwide.
 
 <br>
 
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=SyedKifayat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedKifayat1&theme=tokyonight&hide_border=true&layout=compact)
 
 <br>
 
-
-## ✒️ Developer Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Have an e-commerce idea or a slow store that needs fixing? [Email me](mailto:kifayatkhanofficial@gmail.com) — let's talk.**
